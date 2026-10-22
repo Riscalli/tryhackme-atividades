@@ -1,37 +1,28 @@
-# Inside a Computer System
+# Careers in Cyber
 
-**Sala:** https://tryhackme.com/room/insideacomputer
-**Path:** Pre Security > Computer Fundamentals
+**Sala:** https://tryhackme.com/room/careersincyber
+**Path:** Pre Security > Introduction to Cyber Security
 **Data de conclusão:** 22/10/2026
 **Dificuldade:** Fácil
-**Tempo gasto:** [ex.: 45 min]
+**Tempo gasto:** 10 min (estimativa da sala)
 
 ## Objetivo da sala
-👌😁Entender quais são os componentes básicos de um computador, a função de cada um e o que acontece desde o momento em que ligamos a máquina até o sistema operacional ser carregado.
+Apresentar o mercado de cibersegurança: as oportunidades, a remuneração, a importância da área e os tipos de função, além de ajudar a descobrir qual delas combina com o perfil de cada pessoa.
 
 ## Conceitos principais
-- **Componentes de um computador:** todo computador é formado por peças com funções próprias que trabalham juntas. A sala compara essas peças com o corpo humano para facilitar a memorização.
-  - Processador, Memória RAM, Armazenamento, Fonte de energia, SSD
-- **UEFI (e BIOS):** firmware que inicia os componentes. A BIOS faz o mesmo papel, mas foi em grande parte substituída pela UEFI.
-- **POST (Power-On Self Test):** teste feito na inicialização para verificar se os componentes estão presentes, configurados e funcionando.
-- **Dispositivo de boot:** a UEFI mantém uma lista ordenada de onde procurar o sistema operacional.
-- **Bootloader:** programa que carrega o sistema operacional do dispositivo de boot para a memória RAM e depois entrega o controle a ele.
+- **Falta de profissionais:** existem muitas vagas abertas e poucas pessoas qualificadas para ocupá-las.
+- **Entrada na área:** não é obrigatório ter diploma de computação. Certificações e prática ajudam a chegar mais rápido a boas posições.
+- **Impacto real:** ataques afetam hospitais, bancos, energia e indústrias, então proteger esses serviços é o trabalho central da área.
+- **Variedade de funções:** a área tem mais de 50 funções, como pentester, analista de SOC, pesquisador de inteligência de ameaças e resposta a incidentes.
+- **Perfis diferentes:** há funções para quem pensa como atacante, para quem gosta de investigar e para quem prefere pesquisar tendências.
+- **Crescimento:** novas tecnologias (IA, nuvem, saúde conectada, bancos digitais) criam mais necessidade de segurança.
 
-## Processo de inicialização (boot) em ordem
-1. Botão de energia: um sinal libera a energia da fonte.
-2. O firmware (UEFI) inicia.
-3. O POST testa os componentes.
-4. A UEFI seleciona o dispositivo de boot.
-5. O bootloader carrega o sistema operacional na RAM e entrega o controle.
-
-## Dificuldades e como resolvi
-Minha maior dificuldade foi com as novas expressões em Inglês, mas com analise do contexto foi facilitando.
-
-## O que aprendi
-Entendi que os componentes de um computador devem ser preservados para analise florence, que devem ser manuseados e indentificados para que a analise possa ser facil e concludente. Devemos fazer um relatorio de todas as peças aprendidas e as que não estão disponiveis devem ser descartadas.
+## Resultado do Careers Quiz
+- **Função sugerida pelo quiz:** SOC Nível 1 (analista de SOC)
+- **Comentário:** o resultado combina com o meu plano. Vou trabalhar com redes e quero me especializar em cibersegurança, e o analista de SOC monitora alertas e tráfego de rede o tempo todo.
 
 ## Como isso se conecta com minha carreira
-Em um SOC, entender como o computador funciona ajuda a interpretar alertas e a saber onde um ataque pode acontecer. A sala destaca que o processo de boot é às vezes alvo de atacantes, e isso é conhecimento importante para quem monitora e defende sistemas. Também ajuda no meu trabalho com redes, porque é base para compreender as necessidades do cliente e os componentes a qual posso auxiliar-lo em resolver alguma discrepancia física.
+A sala mostrou que a cibersegurança tem muitos caminhos e que a base em redes é uma vantagem para quem quer atuar em monitoramento e resposta a incidentes. Meu trabalho com redes pode me preparar para a função de analista de SOC.
 
-## Próximos passos
-- Próxima sala: Computer Types (Tipos de Computadores)
+## O que aprendi
+Aprendi que a cibersegurança é uma área com muita demanda, que aceita pessoas de várias origens e que oferece diferentes funções, técnicas e investigativas. Também aprendi que o quiz de carreiras
