@@ -6,9 +6,12 @@ Meu diário de estudos em cibersegurança: anotações e aprendizados de cada sa
 
 ## 📋 Salas
 
-| Sala | Status | Anotações |
-|------|--------|-----------|
-| [Careers in Cyber](https://tryhackme.com/room/careersincyber) | Em andamento | [notes](careers-in-cyber/notes.md) |
+Path em andamento: [Pre Security](https://tryhackme.com/path/outline/presecurity)
+
+| Sala | Módulo | Status | Anotações |
+|------|--------|--------|-----------|
+| [Careers in Cyber](https://tryhackme.com/room/careersincyber) | Introdução à Cibersegurança | Concluída | [notes](careers-in-cyber/notes.md) |
+| [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | Fundamentos de Computador | Concluída | [notes](pre-security/02-fundamentos-de-computador/inside-a-computer-system/notes.md) |
 
 ## 👋 Sobre mim
 
@@ -19,6 +22,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Estácio e esto
 Uso o TryHackMe como parte prática da minha formação. Com ele quero:
 
 - Descobrir qual área da cibersegurança mais combina com o meu perfil (defesa, ataque, análise, etc.)
+- Seguir o caminho de **Analista de SOC (Nível 1)**, indicado pelo quiz de carreiras do TryHackMe
 - Construir uma base sólida em redes, Linux e segurança da informação
 - Praticar ferramentas como o Kali Linux em ambientes seguros e legais
 - Me preparar para certificações da área
